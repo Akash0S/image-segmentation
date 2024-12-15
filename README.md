@@ -44,11 +44,8 @@ Tools: Git, GitHub, Jupyter Notebook, Google Colab
 
 Have questions or want to discuss my projects? Reach out to me!
 
-Email: your-email@example.com
-
-GitHub: https://github.com/your-username
-
-LinkedIn: https://linkedin.com/in/your-username
+Email: sakash0002@gmail.com
+LinkedIn: www.linkedin.com/in/akash0s
 
 📁 Portfolio Organization
 
